@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1537394808 source:c:\test\repaso 2018 clase1\abmdinamico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1537803284 source:c:\users\alumno\desktop\abmdinamico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1537816299 source:c:\users\capacita_mecon\desktop\abmempleadossector\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1537827345 source:c:\test\abmempleadossector\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1538001293 source:c:\test\otrachance\abmempleadossectorpuntero\abmempleadossector\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"arraylist.h"
+
+1537999208 source:c:\test\otrachance\abmempleadossectorpuntero\abmempleadossector\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arraylist.h"
+
+1538000287 source:c:\test\otrachance\abmempleadossectorpuntero\abmempleadossector\funciones.c
+	"Funciones.h"
+
+1537999564 c:\test\otrachance\abmempleadossectorpuntero\abmempleadossector\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1537998844 c:\test\otrachance\abmempleadossectorpuntero\abmempleadossector\arraylist.h
+
+1538070990 source:e:\otrachance\abmempleadossector\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"arraylist.h"
+
+1538073940 e:\otrachance\abmempleadossector\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"arraylist.h"
+
+1537998846 e:\otrachance\abmempleadossector\arraylist.h
+
+1537999210 source:e:\otrachance\abmempleadossector\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arraylist.h"
+
+1538169706 source:c:\test\otrachance\abmempleadossectorpuntero\abmempleadossectorarray\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arraylist.h"
+
+1538171150 c:\test\otrachance\abmempleadossectorpuntero\abmempleadossectorarray\arraylist.h
+
+1538171049 source:c:\test\otrachance\abmempleadossectorpuntero\abmempleadossectorarray\funciones.c
+	"Funciones.h"
+	"arraylist.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1538171015 c:\test\otrachance\abmempleadossectorpuntero\abmempleadossectorarray\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"arraylist.h"
+
+1538171173 source:c:\test\otrachance\abmempleadossectorpuntero\abmempleadossectorarray\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"arraylist.h"
+
